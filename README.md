@@ -13,6 +13,8 @@ OSM Tools
 
 [TileMill (map styling/rendering)](http://wiki.openstreetmap.org/wiki/TileMill)
 
+[iD Editor (in browser)](https://github.com/openstreetmap/iD)
+
 [TileStache (faster map rendering, no styling)](http://tilestache.org/)
 
 [osmosis (data extracts)](https://wiki.openstreetmap.org/wiki/Osmosis)
