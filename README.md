@@ -4,8 +4,7 @@ OpenStreetmap Notes
 Fork Architecture
 -----------------
 
-![Alt text](http://chrisnatali.github.io/osm_notes/fork_architecture.svg)
-<img src="http://chrisnatali.github.io/osm_notes/fork_architecture.svg">
+![Fork Architecture Diagram](http://chrisnatali.github.io/osm_notes/fork_architecture.svg)
 
 OSM Tools
 ---------
