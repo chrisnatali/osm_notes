@@ -38,6 +38,8 @@ Custom Tools
 Other Useful Links
 ------------------
 
+[OSM Component Architecture (a bit outdated)](http://wiki.openstreetmap.org/wiki/Component_overview)
+
 Power tag descriptions:  http://wiki.openstreetmap.org/wiki/WikiProject_Power_networks
 
 Power route proposal (good use of relations):  http://wiki.openstreetmap.org/wiki/Proposed_features/Power_routing_proposal
