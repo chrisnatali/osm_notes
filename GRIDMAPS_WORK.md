@@ -33,7 +33,7 @@ Our solution requires visibility into the progress of the collection effort as w
 This can be done via the following:
 - Synchronization between the OSM API server and a "tiling" server (either via osmosis or osm2pgsql)
 - TileMill or other tiling server and styles for generating/hosting reporting tiles
-- Pre-defined and adhoc query support via [overpass api]](http://wiki.openstreetmap.org/wiki/Overpass_API)
+- Pre-defined and adhoc query support via [overpass api](http://wiki.openstreetmap.org/wiki/Overpass_API)
 
 All of the above require [devops](#DevOps) work and customization
 
