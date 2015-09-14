@@ -45,11 +45,11 @@ User registration/editing workflow and reporting definition/access need to be de
 
 Current OSM roles are limited to moderators/administrators, which may be sufficient.  
 
-#### Adminstration TODO:  
+#### Administration TODO:  
 - Entitlements between systems needs to be thought through.  
 - We may want the ability to create "tasks" to be selected by/assigned to users as is done via the HOT Tasking Manager (though their grid-based assignment may not be optimal for our more network focused data collection).  This would be done via the [Data Automation](#Data Automation) module. 
 
-This may be integrated with [validation](#Validation).  
+This may be integrated with [Quality Assurance](#Quality Assurance).  
 
 ### Quality Assurance
 
