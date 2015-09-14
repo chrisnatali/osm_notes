@@ -22,7 +22,7 @@ There are established [infrastructure preset definitions](http://wiki.openstreet
 Standard approaches need to be developed around presets:
 - Authoring 
 - Deployment (for both JOSM and potentially iD/mobile editor usage)
-- Sync with [Reporting](#Reporting) system
+- Sync with [Reporting](#reporting) system
 
 
 ### Reporting
@@ -35,7 +35,7 @@ This can be done via the following:
 - TileMill or other tiling server and styles for generating/hosting reporting tiles
 - Pre-defined and adhoc query support via [overpass api](http://wiki.openstreetmap.org/wiki/Overpass_API)
 
-All of the above require [devops](#DevOps) work and customization
+All of the above require [devops](#devops) work and customization
 
 OUT OF SCOPE:  Custom "branded" reporting sites for specific entities.  
 
@@ -47,9 +47,9 @@ Current OSM roles are limited to moderators/administrators, which may be suffici
 
 #### Administration TODO:  
 - Entitlements between systems needs to be thought through.  
-- We may want the ability to create "tasks" to be selected by/assigned to users as is done via the HOT Tasking Manager (though their grid-based assignment may not be optimal for our more network focused data collection).  This would be done via the [Data Automation](#Data Automation) module. 
+- We may want the ability to create "tasks" to be selected by/assigned to users as is done via the HOT Tasking Manager (though their grid-based assignment may not be optimal for our more network focused data collection).  This would be done via the [Data Automation](#data-automation) module. 
 
-This may be integrated with [Quality Assurance](#Quality Assurance).  
+This may be integrated with [Quality Assurance](#quality-assurance).  
 
 ### Quality Assurance
 
