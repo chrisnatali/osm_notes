@@ -69,6 +69,15 @@ All sub-components of the architecture need deployment automation, backups where
 - Database backups on regular schedule with recovery tested in test environment
 - Workflow for reconciling upstream openstreetmap with custom gridmaps software
 
+### Mobile Client Editor
+
+JOSM may be sufficient for desktop editors, but for those out in the field a more suitable mobile/offline editor is needed.  
+
+I believe this should be based on the source for iD editor. 
+
+#### Mobile Client Editor TODO:
+- Evaluate iD and determine effort to add mobile/offline capabilities
+
 ### Conflation (Import):
 
 Since existing sources will be a major contributor to GridMaps repositories, a methodology for matching and integration of these sources with existing repository data (i.e. Conflation) needs developing.  There are some [existing tools](http://wiki.openstreetmap.org/wiki/Conflation) for this.  
