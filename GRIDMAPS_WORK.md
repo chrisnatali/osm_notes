@@ -66,6 +66,7 @@ User edits will need continuous validation via a combination of manual checks an
 All sub-components of the architecture need deployment automation, backups where needed and generally streamlined workflows for changes.  
 
 #### DevOps TODO:  
+- Define/Select devops platform components (Docker + Ansible?)
 - Development and Deployment automation with clear documentation
 - Database backups on regular schedule with recovery tested in test environment
 - Workflow for reconciling upstream openstreetmap with custom gridmaps software
@@ -102,5 +103,3 @@ As the size/scope of the dataset grows, automation of collection and fixing beco
 #### Documentation
 
 We can reuse much of what the OSM community has developed, but may need some customizations specific to our needs
-
-
