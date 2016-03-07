@@ -39,6 +39,8 @@ All of the above require [devops](#devops) work and customization
 
 OUT OF SCOPE:  Custom "branded" reporting sites for specific entities.  
 
+See sample sql queries in this directory
+
 ### Administration
 
 User registration/editing workflow and reporting definition/access need to be defined. 

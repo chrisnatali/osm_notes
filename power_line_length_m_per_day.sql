@@ -1,0 +1,1 @@
+select count(*) num_lines, sum(line_length_m) sum_line_length_m, day_stamp from (select way, st_length(way) line_length_m, osm_user, substring(osm_timestamp from 1 for 10) day_stamp from planet_osm_line where power='line') power_lines group by day_stamp order by day_stamp;
