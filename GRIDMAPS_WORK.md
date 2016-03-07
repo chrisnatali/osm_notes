@@ -10,6 +10,10 @@ In particular, this [component overview](http://wiki.openstreetmap.org/wiki/Comp
 Deployment and data/system evolution architectural design scenarios need to be developed.  
 Terminology needs to be defined.  
 
+Need names for:
+- The system itself
+- A deployment
+
 ### Schemas
 
 We need standard schemas for power data gathering and infrastructure data in general.  
@@ -23,6 +27,12 @@ Standard approaches need to be developed around presets:
 - Authoring 
 - Deployment (for both JOSM and potentially iD/mobile editor usage)
 - Sync with [Reporting](#reporting) system
+
+### "Skin"
+
+Abstract out text for a particular deployment/customer.  This includes:
+- Introductory messages
+- Licensing
 
 ### Reporting
 
